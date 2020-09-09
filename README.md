@@ -24,7 +24,7 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/luiztucillo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Luiz%20Tucillo-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:me@luiztucillo.com.br"><img alt="Email" src="https://img.shields.io/badge/Email-me@luiztucillo.com.br-blue?style=flat-square&logo=gmail"></a>
 </p>
