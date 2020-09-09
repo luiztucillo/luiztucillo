@@ -1,16 +1,32 @@
-### Hi there 👋
+<h2> Hey there! I'm Luiz.</h2>
 
-<!--
-**luiztucillo/luiztucillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Formado em Engenharia da Computação pela FIAP.
+- 💼 &nbsp; Trabalhando como Desenvolvedor de Software Senior no Mercado Livre.
+- 🌱 &nbsp; Sempre aprendendo sobre Arquitetura Cloud, Design de Sistemas, Linguagens, Paradigmas e tudo mais relacionado a tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; PHP | NodeJS | C(++) | Java | Elixir | Dart | (buscando +)
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Flutter | Magento | Wordpress | Prestashop
+- 🛢 &nbsp; MySQL | MongoDB | Neo4J
+- 🔧 &nbsp; Git | Markdown | Selenium
+- 🖥 &nbsp; Illustrator| Photoshop
+
+<br/>
+
+[![LuizTucillo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luiztucillo&show_icons=true)](https://github.com/luiztucillo)
+
+<h3> 🌎 Useful Repo </h3>
+<a href="https://github.com/luiztucillo/docker-php-apps"><img alt="Docker for PHP" src="https://img.shields.io/badge/Docker-PHP-blue?style=flat-square&logo=docker"></a>
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/luiztucillo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Luiz%20Tucillo-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:me@luiztucillo.com.br"><img alt="Email" src="https://img.shields.io/badge/Email-me@luiztucillo.com.br-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+⭐️ From [luiztucillo](https://github.com/luiztucillo)
