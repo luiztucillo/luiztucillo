@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em Engenharia da Computação pela FIAP.
-- 💼 &nbsp; Trabalhando como Desenvolvedor de Software Senior no Mercado Livre.
+- 💼 &nbsp; Tech Lead no Mercado Livre.
 - 🌱 &nbsp; Sempre aprendendo sobre Arquitetura Cloud, Design de Sistemas, Linguagens, Paradigmas e tudo mais relacionado a tecnologia.
 
 <h3>🛠 Tech Stack</h3>
