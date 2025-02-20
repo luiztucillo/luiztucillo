@@ -9,7 +9,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; PHP | NodeJS | C(++) | Java | Elixir | Dart | (buscando +)
+- 💻 &nbsp; Go | Java | Kotlin | PHP | NodeJS | C(++) | Dart | (buscando +)
 - 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Flutter | Magento | Wordpress | Prestashop
 - 🛢 &nbsp; MySQL | MongoDB | Neo4J
 - 🔧 &nbsp; Git | Markdown | Selenium
